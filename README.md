@@ -32,7 +32,7 @@
 
 - If you have any questions or comments, please feel free to contact me. I am always open to receiving feedback and willing to collaborate on new challenges that allow me to continue growing professionally.
 
-- I am also a Software Developer, passionate about Frontend development. My main focus is creating intuitive and visually appealing user interfaces that enhance the end-user experience. I specialize in transforming designs and concepts into functional and dynamic web applications.
+- Software Developer, passionate about Frontend development. My main focus is creating intuitive and visually appealing user interfaces that enhance the end-user experience. I specialize in transforming designs and concepts into functional and dynamic web applications.
 
 - Don't hesitate to drop me a **👋** on Discord –  [jeerrryy](https://discordapp.com/users/398874601427566602) my username!
 <!--Intro end-->
