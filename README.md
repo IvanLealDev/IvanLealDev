@@ -32,7 +32,7 @@
 
 - If you have any questions or comments, please feel free to contact me. I am always open to receiving feedback and willing to collaborate on new challenges that allow me to continue growing professionally.
 
-- 🏠 Don't hesitate to drop me a **👋** on Discord –  [1010nishant](https://discordapp.com/users/957722095381540874) my username!
+- Don't hesitate to drop me a **👋** on Discord –  [jeerrryy](https://discordapp.com/users/398874601427566602) my username!
 <!--Intro end-->
     
 <!--- stats (end) -->
