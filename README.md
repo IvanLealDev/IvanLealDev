@@ -5,7 +5,7 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Ivan</h1></summary>
+    <summary><h1 style="display: inline-block">Hi, I'm Ivan</h1></summary>
   </ul>
 </div>
 
@@ -26,17 +26,11 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **AWS, React, React Native, Nodejs, MongoDB**
+- I am a developer specialized in creating files for Minecraft Java and Bedrock, committed to offering a unique and satisfying user experience. My projects reflect my dedication and passion for development, and you can see some of them in the projects section of my portfolio.
 
-- 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
+- As a self-taught person, responsible and committed to my work, I constantly strive to learn new technologies and tools to improve my skills. My goal is to ensure that each project not only meets technical standards but also delivers an exceptional experience for users.
 
-- ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
-
-- 📝 I regularly write articles on [Hashnode](https://1010nishant.hashnode.dev/)
-
-- 💬 Ask me about **AWS, react, react-native, nodejs, mongoDB**
-
-- 📫 Feel free to reach me out **nishantjangid6377@gmail.com**
+- If you have any questions or comments, please feel free to contact me. I am always open to receiving feedback and willing to collaborate on new challenges that allow me to continue growing professionally.
 
 - 🏠 Don't hesitate to drop me a **👋** on Discord –  [1010nishant](https://discordapp.com/users/957722095381540874) my username!
 <!--Intro end-->
