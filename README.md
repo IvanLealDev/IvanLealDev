@@ -36,7 +36,7 @@
 
 - Software Developer, expert in designing, programming and maintaining efficient and robust applications. I transform ideas into technological solutions, ensuring quality and performance through testing and continuous optimization.
 
-- Don't hesitate to drop me a **👋** on Discord –  [jeerrryy](https://discordapp.com/users/398874601427566602) my username!
+- Don't hesitate to drop me a **👋** on Discord –  [jeerrryy](https://discord.com/users/jeerrryy) my username!
 <!--Intro end-->
     
 <!--- stats (end) -->
