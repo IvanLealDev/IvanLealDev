@@ -51,7 +51,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,azure,css,html,js,ts,threejs,tailwind,py,cpp,c,cs,bootstrap,unity,idea,ps,java,maven,nodejs,npm,figma,github,vercel,linux,vscode,visualstudio,arduino,autocad,bash,blender,cloudflare,powershell,electron,windows,gmail&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,aws,azure,css,html,js,ts,threejs,tailwind,react,py,cpp,c,cs,bootstrap,unity,idea,ps,java,maven,nodejs,npm,figma,github,vercel,linux,vscode,visualstudio,arduino,autocad,bash,blender,cloudflare,powershell,electron,windows,gmail&perline=14" />
   </a>
 </p>
 
